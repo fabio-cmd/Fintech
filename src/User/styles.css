@@ -1,0 +1,18 @@
+
+.custom-logo{
+  height: 30px; 
+}
+
+.navbar-custom {
+  background-color: #26874E; 
+}
+
+.navbar-custom .nav-link {
+  color: white; 
+}
+
+.navbar-custom .nav-link:hover {
+  color: #006400; 
+}
+
+
