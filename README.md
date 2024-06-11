@@ -60,10 +60,6 @@ Um carrossel dinâmico na página inicial destaca imagens visualmente atraentes 
 
 Uma seção detalhada que apresenta a empresa fintech, sua missão e os motivos para escolher seus serviços.
 
-### Planos de Preços
-
-Planos de preços claramente definidos com detalhes para cada nível, permitindo que os usuários escolham o plano que atenda às suas necessidades.
-
 ### Informações de Contato
 
 Uma seção com detalhes de contato, incluindo links para plataformas de mídia social, um botão do WhatsApp e um mapa do Google incorporado para a localização da empresa.
